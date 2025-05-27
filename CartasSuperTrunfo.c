@@ -86,4 +86,6 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontos2);
 
     return 0;
+
+    printf("Novo comit");
 }
