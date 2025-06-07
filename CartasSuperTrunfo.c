@@ -95,6 +95,8 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontosturisticos2);
 
 // Obs: Sempre devo deixar o código organizado para facilitar a compreenção do código e arrumar possíveis erros.
+    
+    printf("Novo comit\n");
 
     return 0;
 }
